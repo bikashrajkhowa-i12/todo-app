@@ -1,0 +1,6 @@
+GET http://localhost:5000/api/tasks
+Content-Type: application/json
+
+{
+  "text": "Swimming"
+}
