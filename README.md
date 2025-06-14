@@ -2,6 +2,10 @@
 
 A simple and responsive todo list app built with React and Node.js, demonstrating basic CRUD functionality and clean component design.
 
+## 📸 Screenshot
+![todo-do ss](https://github.com/user-attachments/assets/375c846e-264d-4053-ba6e-79dfacbad222)
+
+
 ## 🚀 Features
 
 - Add, delete, and view tasks
